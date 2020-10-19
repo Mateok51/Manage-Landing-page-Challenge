@@ -165,7 +165,7 @@ body {
 #main-banner {
   display: flex;
   padding: 15vw 10vw;
-  background-image: url(.../Images/bg-tablet-pattern.svg);
+  background-image: url(../../Images/bg-tablet-pattern.svg);
   background-position: (57vw -5vw);
   background-size: 50%;
   background-repeat: no-repeat;
@@ -441,7 +441,7 @@ body {
 
 //Simplify start
 #simplify-section {
-  background-image: url(/Images/bg-simplify-section-desktop.svg) !important;
+  background-image: url(../../Images/bg-simplify-section-desktop.svg) !important;
   background-size: 100% !important;
   background-position: (0vh -15vh) !important;
   background-repeat: no-repeat;
@@ -478,7 +478,7 @@ body {
   #simplify-section {
     flex-direction: column;
     padding: 0 0;
-    background-image: url(/Images/bg-simplify-section-mobile.svg);
+    background-image: url(../../Images/bg-simplify-section-mobile.svg);
     background-repeat: no-repeat;
     background-size: cover !important;
     background-position: (-60vw 0vh) !important;
