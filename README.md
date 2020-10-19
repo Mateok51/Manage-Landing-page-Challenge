@@ -1,0 +1,1 @@
+This is my solution to the frontend challenge found on Frontend Mentor website: https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5 <br> <br> All the code is written by me and is based on the given design. The web site can be viewed on this link: https://mateok51.github.io/EasyBank-Webpage-Challenege/
