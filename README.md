@@ -1,1 +1,11 @@
-This is my solution to the frontend challenge found on Frontend Mentor website: https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5 <br> <br> All the code is written by me and is based on the given design. The web site can be viewed on this link: https://mateok51.github.io/Manage-Landing-page-Challenge/
+# Bookmark Landing Page
+
+This project is my solution to Frontend Mentor [challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). The page is fully responsive.
+
+## Tehnologies used
+
+For making the solutions I used HTML, SCSS and JavaScript.
+
+## Solution
+
+The full page can be view od [this link](https://mateok51.github.io/Manage-Landing-page-Challenge/).
